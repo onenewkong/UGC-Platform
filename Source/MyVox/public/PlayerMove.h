@@ -22,7 +22,7 @@ public:
 
 public:
 	UPROPERTY(EditAnywhere, Category = PlayerSetting)
-	float walkSpeed = 200;
+	float walkSpeed = 300;
 	FVector direction;
 
 	void InputHorizontal(float value);
