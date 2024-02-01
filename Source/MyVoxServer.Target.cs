@@ -5,11 +5,11 @@ using System.Collections.Generic;
 
 public class MyVoxServerTarget : TargetRules
 {
-	public MyVoxServerTarget(TargetInfo Target) : base(Target)
-	{
+    public MyVoxServerTarget(TargetInfo Target) : base(Target)
+    {
         Type = TargetType.Server;
-        DefaultBuildSettings = BuildSettingsVersion.V2;
+        DefaultBuildSettings = BuildSettingsVersion.V4;
 
-        ExtraModuleNames.AddRange( new string[] { "MyVox" } );
+        ExtraModuleNames.AddRange(new string[] { "MyVox" });
     }
 }

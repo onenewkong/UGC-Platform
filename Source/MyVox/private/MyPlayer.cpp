@@ -11,7 +11,7 @@ AMyPlayer::AMyPlayer()
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
-	ConstructorHelpers::FObjectFinder<USkeletalMesh> TempMesh(TEXT("C:/UnrealProjects/MyVox/Content/MyVox/Resources/Standing_Idle_Skeleton.uasset"));
+	ConstructorHelpers::FObjectFinder<USkeletalMesh> TempMesh(TEXT("C:/UnrealProjects/MyVox/Content/MyVox/Resources/Standing_Idle.uasset"));
 
 	if (TempMesh.Succeeded())
 	{

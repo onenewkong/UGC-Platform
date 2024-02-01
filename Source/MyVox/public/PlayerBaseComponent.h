@@ -29,9 +29,9 @@ public:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
 public:
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, Category = Component)
 	AMyPlayer* me;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, Category = Component)
 	UCharacterMovementComponent* moveComp;
 		
 };
