@@ -56,4 +56,5 @@ void AMyPlayer::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
 	playerMove->SetupInputBinding(PlayerInputComponent);
+
 }

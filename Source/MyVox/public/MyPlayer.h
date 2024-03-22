@@ -35,4 +35,5 @@ public:
 public:
 	UPROPERTY(VisibleAnywhere, Category = Component)
 	class UPlayerBaseComponent* playerMove;
+
 };
