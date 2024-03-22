@@ -20,7 +20,7 @@ AMyPlayer::AMyPlayer()
 	}
 	
 	springArmComp = CreateDefaultSubobject<USpringArmComponent>(TEXT("SpringArmComp"));
-	springArmComp->SetupAttachment(RootComponent);
+	springArmComp->SetupAttachment(GetRootComponent());
 	springArmComp->SetRelativeLocation(FVector(0, 70, 90));
 	springArmComp->TargetArmLength = 400;
 	springArmComp->bUsePawnControlRotation = true;
@@ -28,6 +28,10 @@ AMyPlayer::AMyPlayer()
 	voxCamComp = CreateDefaultSubobject<UCameraComponent>(TEXT("VoxCamComp"));
 	voxCamComp->SetupAttachment(springArmComp);
 	voxCamComp->bUsePawnControlRotation = false;
+
+	bUseControllerRotationPitch = false;
+	bUseControllerRotationRoll = false;
+	bUseControllerRotationYaw = false;
 
 	bUseControllerRotationYaw = true;
 
