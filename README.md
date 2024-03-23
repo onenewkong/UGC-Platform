@@ -24,11 +24,3 @@ My Vox - Beta Version
 ![MyVox_page-0008](https://github.com/onenewkong/UGC-Platform/assets/100193796/20cd9b2c-0322-4bf1-9ffe-972575dd5adc)
 
 ![MyVox_page-0009](https://github.com/onenewkong/UGC-Platform/assets/100193796/a222a660-54c3-4cdb-a46c-1f818c320433)
-
-![MyVox_page-0010](https://github.com/onenewkong/UGC-Platform/assets/100193796/01fce7f6-d9b1-4ce4-8a9d-74c285cfdddf)
-
-![MyVox_page-0011](https://github.com/onenewkong/UGC-Platform/assets/100193796/ec36075d-5fa7-406e-ae48-13e867bb2153)
-
-![MyVox_page-0012](https://github.com/onenewkong/UGC-Platform/assets/100193796/58307662-5692-4d1a-be55-cf7436cd675f)
-
-![MyVox_page-0013](https://github.com/onenewkong/UGC-Platform/assets/100193796/15dbeae8-a5c5-48cc-b9a7-348b5690e68c)
