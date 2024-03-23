@@ -8,7 +8,7 @@ My Vox - Beta Version
 .  
 .  
   
-(다음은 메타버스 디자인 기획 과제물입니다.)
+다음은 메타버스 디자인 기획 과제물입니다.
 
 ![MyVox_page-0003](https://github.com/onenewkong/UGC-Platform/assets/100193796/5b62af65-c18c-45d3-8cdf-3690faab1070)
 
