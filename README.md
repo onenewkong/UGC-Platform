@@ -3,11 +3,11 @@ My Vox - Beta Version
 [ 메타버스 UX 디자인, 메타버스 디자인 기획 수업 텀프로젝트 결과물의 베타 버전 ]
 
 나의 복셀 아트 전시회
-
+  
 .  
 .  
 .  
-
+  
 (다음은 메타버스 디자인 기획 과제물입니다.)
 
 ![MyVox_page-0003](https://github.com/onenewkong/UGC-Platform/assets/100193796/5b62af65-c18c-45d3-8cdf-3690faab1070)
