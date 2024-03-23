@@ -8,8 +8,9 @@ My Vox - Beta Version
 .  
 .  
   
-다음은 메타버스 디자인 기획 과제물입니다.
-
+다음은 메타버스 디자인 기획 과제물입니다.  
+이 중, 개발 계획 및 진행 중에 있는 기능은 작업실, 전시장입니다.  
+  
 ![MyVox_page-0003](https://github.com/onenewkong/UGC-Platform/assets/100193796/5b62af65-c18c-45d3-8cdf-3690faab1070)
 
 ![MyVox_page-0004](https://github.com/onenewkong/UGC-Platform/assets/100193796/ce8b3453-11ab-4cf7-8dd3-13c1a043fcc5)
