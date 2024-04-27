@@ -10,6 +10,6 @@ public class MyVoxServerTarget : TargetRules
         Type = TargetType.Server;
         DefaultBuildSettings = BuildSettingsVersion.V4;
 
-        ExtraModuleNames.AddRange(new string[] { "MyVox" });
+        ExtraModuleNames.Add("MyVox");
     }
 }
